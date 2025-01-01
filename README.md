@@ -1,4 +1,3 @@
-"# Hamiltonian-Graph" 
 This C++ program determines whether a Hamiltonian Cycle exists in a given graph using a backtracking approach. A Hamiltonian Cycle is a closed loop that visits each vertex of a graph exactly once and returns to the starting vertex.
 
 The program performs the following:
